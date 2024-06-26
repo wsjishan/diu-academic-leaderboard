@@ -50,7 +50,7 @@ Example section-ids.txt:
 ### **Run the Script:**
 
 ```bash
-python check_follow_back.py
+python main.py
 ```
 
 ## Submit Your Section IDs
